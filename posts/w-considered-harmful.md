@@ -24,6 +24,7 @@ So, now that we've got a syllable counter, let's get all the W-words in the CMU 
 ```python
 import pylab 
 
+src = "The Carnegie Mellon Pronouncing Dictionary [cmudict.0.6]"
 w_words = {w: nsyl(entry) for (w, entry) in dictionary.items() if w[0] == 'w'}
 
 pylab.hist(w_words.values(), align='left')
@@ -31,10 +32,10 @@ fig = pylab.gcf()
 pylab.xlabel("Number of Syllables")
 pylab.ylabel("Count")
 pylab.title("Number of Syllables in {:,} words starting with 'W'".format(len(w_words)))
-pylab.figtext(0.99, 0.01, 'Data Source: The Carnegie Mellon Pronouncing Dictionary [cmudict.0.6]', ha='right', c=fig.get_edgecolor())
+pylab.figtext(0.99, 0.01, 'Data Source: ' + src, ha='right', c=fig.get_edgecolor())
 pylab.savefig('w.png', facecolor=fig.get_facecolor())
 
-worth_abbreviating = [(k, v) for (k, v) in w_words.items() if v < 3] 
+worth_abbreviating = [(w, n) for (w, n) in w_words.items() if n < 3] 
 ```
 
 ![Number of Syllables in words starting with 'W'](https://user-images.githubusercontent.com/150536/128645465-2edd941b-ba6c-4acc-b2bd-2bd22de928fe.png)
