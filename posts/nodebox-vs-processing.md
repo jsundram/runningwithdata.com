@@ -1,8 +1,8 @@
 # Nodebox vs Processing
 
-*<sub>Originally published: Sat, 06 Jul 2013 to https://runningwithdata.com/post/54781756667</sub>*
+*<sub>Originally published: Sat, 06 Jul 2013 to [https://runningwithdata.tumblr.com/post/54781756667]</sub>*
 
-**TL;DR: Nodebox-OpenGL gives you the sugar and power of Python and the ease of Processing, but with a significant speed penalty. The good news is: there’s lots of low-hanging fruit. Let’s submit some diffs!**
+*TL;DR: Nodebox-OpenGL gives you the sugar and power of Python and the ease of Processing, but with a significant speed penalty. The good news is: there’s lots of low-hanging fruit. Let’s submit some diffs!*
 
 [Lynn Cherny](https://twitter.com/arnicas)’s talk, Data Visualization with Nodebox ([Slides](http://www.slideshare.net/arnicas/nodebox-for-data-visualization-17766643), [Video](http://vimeo.com/63270085)) made an excellent case for using [Nodebox](http://www.cityinabottle.org/nodebox/) as a framework for creative data visualization instead of [Processing](http://processing.org/). Nodebox lets you code in Python instead of Java. And although Nodebox lacks Processing’s vibrant community of developers and [rich ecosystem](http://www.processing.org/reference/libraries/) (including [geomerative](http://www.ricardmarxer.com/geomerative/) and [toxiclibs](http://toxiclibs.org/)), Nodebox comes with a lot built-in ([flocking, particle systems, graphs](http://www.cityinabottle.org/nodebox/physics/)), plus easy access to all the goodies you could ever want in Python.  
 
@@ -15,7 +15,7 @@ So, I decided to give it a whirl and installed [Nodebox-OpenGL](https://github.c
     
 Once that was out of the way, I decided the most instructive thing to do was to port an existing Processing sketch to Nodebox. BoxyLady2, [a 72-line sketch](https://gist.github.com/jsundram/1671003) by [analogpixel](http://www.analogpixel.org/) became [20 lines shorter](https://gist.github.com/jsundram/5332259) (yay!), but also **11x slower** (.375 [fps](http://en.wikipedia.org/wiki/Frame_rate) for NodeBox, 4.4 fps for Processing v2.0b9). That’s a hell of a performance price to pay.  
 
-My rendered output is [here](http://viz.runningwithdata.com/mosaic/jsundram.gif") (I used ImageMagick to stitch the frames together &ndash; it’s a ~9 MB animated gif)</p> 
+My rendered output is [here](http://viz.runningwithdata.com/mosaic/jsundram.gif") (I used ImageMagick to stitch the frames together &ndash; it’s a ~9 MB animated gif)
 
 [
     ![boxy jsundram](https://lh3.googleusercontent.com/D0MDnAb3MWsByV0fZ6-wzQsXStNczqgPSKXRi5V1GKF-n7rNVxZMpnw34Jdr71lTCD2UsQgjBVCgQI6i5OHcfeYP3QyAytXE5zbBCjQAPOmzG52VY-9PQN9HMw)
