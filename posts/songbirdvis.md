@@ -1,6 +1,6 @@
 # Songbird's first music visualizer: SongbirdVis
 
-*<sub>Originally published: Wed, 02 Jun 2010 to https://runningwithdata.com/post/655428696</sub>*
+*<sub>Originally published: Wed, 02 Jun 2010 to [https://runningwithdata.com/post/655428696](https://runningwithdata.com/post/655428696)</sub>*
 
 ---
 

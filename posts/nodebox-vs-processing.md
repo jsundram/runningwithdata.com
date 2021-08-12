@@ -1,6 +1,6 @@
 # Nodebox vs Processing
 
-*<sub>Originally published: Sat, 06 Jul 2013 to [https://runningwithdata.tumblr.com/post/54781756667]</sub>*
+*<sub>Originally published: Sat, 06 Jul 2013 to [https://runningwithdata.tumblr.com/post/54781756667](https://runningwithdata.tumblr.com/post/54781756667)</sub>*
 
 *TL;DR: Nodebox-OpenGL gives you the sugar and power of Python and the ease of Processing, but with a significant speed penalty. The good news is: there’s lots of low-hanging fruit. Let’s submit some diffs!*
 

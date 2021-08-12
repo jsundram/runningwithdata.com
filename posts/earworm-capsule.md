@@ -1,6 +1,6 @@
 # Earworm and Capsule
 
-*<sub>Originally published: Fri, 14 May 2010 to https://runningwithdata.com/post/597154309</sub>*
+*<sub>Originally published: Fri, 14 May 2010 to [https://runningwithdata.tumblr.com/post/597154309](https://runningwithdata.tumblr.com/post/597154309)</sub>*
 
 ---
 
