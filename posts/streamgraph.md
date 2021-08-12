@@ -1,7 +1,5 @@
 # streamgraph.js
 
-*<sub>Originally published: Sun, 02 May 2010 to [https://runningwithdata.com/post/566345323](https://runningwithdata.com/post/566345323)</sub>*
-
 
 [Streamgraphs](http://leebyron.com/streamgraph/) are cool. They're great at displaying trends in data over time, similar to a stacked graph, but much prettier. The first one I saw was Lee Byron's [Last.fm Listening History](http://www.vislives.com/2011/10/visualizing-lastfm-listening-history.html) graphic, a beautiful poster showing trends in the music he had listened to over the course of two years. The New York Times used an interactive streamgraph (created by [Matthew Bloch](https://twitter.com/grammata) and Shan Carter) to great effect to show box office receipts over 22 years in [The Ebb and Flow of Movies](http://www.nytimes.com/interactive/2008/02/23/movies/20080223_REVENUE_GRAPHIC.html).
    
@@ -35,3 +33,7 @@ Here are some screenshots of streamgraphs.js in action. Full source for these ex
 Pitch data from part of the [Goldberg Variations](https://vimeo.com/2671233), obtained using The Echo Nest's [Track API](https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-audio-analysis)</a>. Note the legend and the custom coloring: a mapping of pitch frequencies onto wavelengths of light.
    
 Get the code: [streamgraph.js on github](https://github.com/jsundram/streamgraph.js)
+
+---
+*<sub>Originally published: Sun, 02 May 2010 to [https://runningwithdata.com/post/566345323](https://runningwithdata.com/post/566345323)</sub>*
+

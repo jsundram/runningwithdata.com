@@ -1,7 +1,5 @@
 # Danceability and Energy: Introducing Echo Nest Attributes
 
-*<sub>Originally published: Fri, 15 Oct 2010 to [https://runningwithdata.tumblr.com/post/1321504427](https://runningwithdata.tumblr.com/post/1321504427)</sub>*
-
 ---
 
 **NOTE**: The Echo Nest was [acquired by Spotify](https://techcrunch.com/2014/03/07/spotify-echo-nest-100m/) in 2014; most but not all API references are now part of the [Spotify API](https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-audio-analysis)
@@ -33,3 +31,8 @@ Here are the various ways you can interact with danceability and energy through 
 * [playlisting](http://developer.echonest.com/docs/v4/playlist.html#playlist-api-methods) (both static and dynamic) - You can specify min/max danceability &amp; energy when creating a playlist  and sort the output by ascending or descending danceability/energy.
 
 Attributes show how powerful and complete The Echo Nest's analyze data is. Armed with only those JSON documents, you could make own attribute, too. Maybe you want to implement [goodness](http://blog.echonest.com/post/91934467/the-echo-nest-goodness-api)? But seriously, what are you going to do with danceability &amp; energy for a [Music HackDay](http://new.musichackday.org/)? I can't wait to find out.
+
+
+---
+*<sub>Originally published: Fri, 15 Oct 2010 to [https://runningwithdata.tumblr.com/post/1321504427](https://runningwithdata.tumblr.com/post/1321504427)</sub>*
+

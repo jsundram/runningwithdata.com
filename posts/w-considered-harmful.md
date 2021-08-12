@@ -1,7 +1,5 @@
 # 'W' Considered Harmful
 
-*<sub>Originally published: Mon, 28 Feb 2011 to [https://runningwithdata.com/post/3576752158](https://runningwithdata.com/post/3576752158)</sub>*
-
 Not [the magazine](http://www.wmagazine.com) and not even [the former president](https://www.snopes.com/fact-check/someone-set-us-up-the-google-bomb/). But the [letter 'W' itself]("http://en.wikipedia.org/wiki/W"). The letter 'W', 23rd in the English alphabet, is unique in two ways: it is the only letter whose name is more than one syllable, and also the only letter whose name doesn't include the sound it makes.  
 
 The fact that 'W' takes 3 syllables to say bothers me. Even [Wikipedia's entry on 'W'](http://en.wikipedia.org/wiki/W#Name) points out, twice, that the abbreviation *www* requires *nine* syllables to say. Crazy. So I wondered, how often is it the case that words that start with W (hereafter W-words) have fewer syllables than the letter W (double-yew)?  
@@ -46,3 +44,6 @@ Only 101 W-words in the CMU dictionary (of 3,805 total W-words) have more than 3
 * Take the [data from Google n-grams viewer ](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) and count syllables for W-words using nltk's ~90%-accurate
 [syllabification code](https://github.com/nltk/nltk_contrib/blob/master/nltk_contrib/readability/syllables_en.py) for words that may not be in the CMU dictionary.
 * Get a list of acronyms (maybe from [netlingo](http://www.netlingo.com/acronyms.php)) and see how many of them require more syllables to say than the phrase they stand for.
+
+---
+*<sub>Originally published: Mon, 28 Feb 2011 to [https://runningwithdata.com/post/3576752158](https://runningwithdata.com/post/3576752158)</sub>*

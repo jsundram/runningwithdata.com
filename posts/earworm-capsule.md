@@ -1,7 +1,5 @@
 # Earworm and Capsule
 
-*<sub>Originally published: Fri, 14 May 2010 to [https://runningwithdata.tumblr.com/post/597154309](https://runningwithdata.tumblr.com/post/597154309)</sub>*
-
 ---
 
 **NOTE**: The Echo Nest was [acquired by Spotify](https://techcrunch.com/2014/03/07/spotify-echo-nest-100m/) in 2014; most but not all API references are now part of the [Spotify API](https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-audio-analysis). Unfortunately, the audio links are no longer functional and cloud.py has since been deprecated..
@@ -54,3 +52,7 @@ Bonus Earworms:
 Bonus Capsules:
 * The Parliament to The Gotan Project to Michael Jackson to Rihanna
 * Sade to Sting
+
+---
+*<sub>Originally published: Fri, 14 May 2010 to [https://runningwithdata.tumblr.com/post/597154309](https://runningwithdata.tumblr.com/post/597154309)</sub>*
+

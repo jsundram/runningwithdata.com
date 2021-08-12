@@ -1,7 +1,5 @@
 # Nodebox vs Processing
 
-*<sub>Originally published: Sat, 06 Jul 2013 to [https://runningwithdata.tumblr.com/post/54781756667](https://runningwithdata.tumblr.com/post/54781756667)</sub>*
-
 *TL;DR: Nodebox-OpenGL gives you the sugar and power of Python and the ease of Processing, but with a significant speed penalty. The good news is: there’s lots of low-hanging fruit. Let’s submit some diffs!*
 
 [Lynn Cherny](https://twitter.com/arnicas)’s talk, Data Visualization with Nodebox ([Slides](http://www.slideshare.net/arnicas/nodebox-for-data-visualization-17766643), [Video](http://vimeo.com/63270085)) made an excellent case for using [Nodebox](http://www.cityinabottle.org/nodebox/) as a framework for creative data visualization instead of [Processing](http://processing.org/). Nodebox lets you code in Python instead of Java. And although Nodebox lacks Processing’s vibrant community of developers and [rich ecosystem](http://www.processing.org/reference/libraries/) (including [geomerative](http://www.ricardmarxer.com/geomerative/) and [toxiclibs](http://toxiclibs.org/)), Nodebox comes with a lot built-in ([flocking, particle systems, graphs](http://www.cityinabottle.org/nodebox/physics/)), plus easy access to all the goodies you could ever want in Python.  
@@ -50,3 +48,7 @@ Even with the JIT, and some OpenGL improvements, Nodebox lags behind both Proces
 
 
 Long story short, Nodebox has a lot to like, but has a long way to go before it can compete with Processing in terms of community and performance. But that means making incremental improvements is really easy. Go pull out your profiler &mdash;[@huyng](https://twitter.com/huyng) wrote [a great post on profiling Python](http://www.huyng.com/posts/python-performance-analysis/) &mdash; and submit a pull request!  
+
+---
+*<sub>Originally published: Sat, 06 Jul 2013 to [https://runningwithdata.tumblr.com/post/54781756667](https://runningwithdata.tumblr.com/post/54781756667)</sub>*
+

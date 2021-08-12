@@ -1,7 +1,5 @@
 # Songbird's first music visualizer: SongbirdVis
 
-*<sub>Originally published: Wed, 02 Jun 2010 to [https://runningwithdata.com/post/655428696](https://runningwithdata.com/post/655428696)</sub>*
-
 ---
 
 **NOTE**: The Echo Nest was [acquired by Spotify](https://techcrunch.com/2014/03/07/spotify-echo-nest-100m/) in 2014; most but not all API references are now part of the [Spotify API](https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-audio-analysis). [Songbird](https://en.wikipedia.org/wiki/Songbird_(software)) was discontinued in 2013.
@@ -65,3 +63,7 @@ Processing.js is an awesome port of the Processing.org language to javascript. I
 
 ### Future Work
 SongbirdVis needs the Echo Nest to update the v4 search API and track upload API before it can be released for general use. There are also a couple of things that remain to be fixed in our hacked-up copy of processing.js. In the meanwhile, the code is available [on Github](http://github.com/jsundram/songbirdvis/) for your forking pleasure. SF Music Hack day was a great experience, with loads of smart developers doing cool things. You should definitely check out [the full list of other hacks](http://musichackdaysf2010.pbworks.com/Projects). My favorite was Leonard Lin's [Set Summary](http://musichackdaysf2010.pbworks.com/SetSummary). The best part about it for me, was that it uses [Capsule](http://runningwithdata.tumblr.com/post/597154309/earworm-capsule). It's a real joy to see people make cool stuff with code I've developed.
+
+---
+*<sub>Originally published: Wed, 02 Jun 2010 to [https://runningwithdata.com/post/655428696](https://runningwithdata.com/post/655428696)</sub>*
+
