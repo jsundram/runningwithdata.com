@@ -8,7 +8,7 @@ The fact that 'W' takes 3 syllables to say bothers me. Even [Wikipedia's entry o
 
 [Syllabification](http://en.wikipedia.org/wiki/Syllabification) in general is a hard problem in English, but fortunately I don't have to solve it. The [Carnegie Mellon University (CMU) Pronouncing Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict) provides the pronunciations for over 125,000 words. I say pronunciations, plural, because words can be pronounced in a variety of different ways (e.g. *fire* can be pronounced to rhyme with *higher*, or [in a single syllable](http://www.learnersdictionary.com/blog.php?action=ViewBlogArticle&amp;ba_id=55). Only 41 W-words in the CMU dict have pronunciations with different numbers of syllables (e.g. *warrior*). Using the CMU Pronouncing Dictionary, it's possible to count syllables in a word in a short (if cryptic) Python function, courtesy of [Jordan Boyd-Graber](http://umiacs.umd.edu/~jbg/) &mdash; I found it on the [nltk-users google group](https://groups.google.com/g/nltk-users/c/mCOh_u7V8_I/m/HsBNcLYM54EJ):  
 
-```
+```python
 from nltk.corpus import cmudict 
 
 dictionary = cmudict.dict()  # Get the CMU Pronouncing Dictionary
@@ -21,7 +21,7 @@ def nsyl(entry):
 
 So, now that we've got a syllable counter, let's get all the W-words in the CMU dictionary, and see what the syllable distribution looks like.  
 
-```
+```python
 import pylab 
 
 w_words = {w: nsyl(entry) for (w, entry) in dictionary.items() if w[0] == 'w'}
