@@ -1,5 +1,5 @@
 ---
-title: Songbird's first music visualizer: SongbirdVis
+title: SongbirdVis
 redirect_from: 
     - post/655428696
     - post/655428696/songbirdvis
@@ -71,5 +71,5 @@ Processing.js is an awesome port of the Processing.org language to javascript. I
 SongbirdVis needs the Echo Nest to update the v4 search API and track upload API before it can be released for general use. There are also a couple of things that remain to be fixed in our hacked-up copy of processing.js. In the meanwhile, the code is available [on Github](http://github.com/jsundram/songbirdvis/) for your forking pleasure. SF Music Hack day was a great experience, with loads of smart developers doing cool things. You should definitely check out [the full list of other hacks](http://musichackdaysf2010.pbworks.com/Projects). My favorite was Leonard Lin's [Set Summary](http://musichackdaysf2010.pbworks.com/SetSummary). The best part about it for me, was that it uses [Capsule](http://runningwithdata.tumblr.com/post/597154309/earworm-capsule). It's a real joy to see people make cool stuff with code I've developed.
 
 ---
-*<sub>Originally published: Wed, 02 Jun 2010 to [https://runningwithdata.com/post/655428696](https://runningwithdata.com/post/655428696)</sub>*
+*<sub>Originally published: Wed, 02 Jun 2010 to [https://runningwithdata.tumblr.com/post/655428696](https://runningwithdata.tumblr.com/post/655428696)</sub>*
 

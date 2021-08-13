@@ -41,5 +41,5 @@ Pitch data from part of the [Goldberg Variations](https://vimeo.com/2671233), ob
 Get the code: [streamgraph.js on github](https://github.com/jsundram/streamgraph.js)
 
 ---
-*<sub>Originally published: Sun, 02 May 2010 to [https://runningwithdata.com/post/566345323](https://runningwithdata.com/post/566345323)</sub>*
+*<sub>Originally published: Sun, 02 May 2010 to [https://runningwithdata.tumblr.com/post/566345323](https://runningwithdata.tumblr.com/post/566345323)</sub>*
 
