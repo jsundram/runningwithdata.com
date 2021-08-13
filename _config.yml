@@ -2,6 +2,6 @@
 remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-feed
-title: runningwithdata.com
+title: Running with Data
 description: fun with data, music, and visualization
 author: Jason Sundram
