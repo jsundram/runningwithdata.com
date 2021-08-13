@@ -1,8 +1,6 @@
 ---
 title: Danceability and Energy
 subtitle: introducing Echo Nest Attributes
-cover-img: https://user-images.githubusercontent.com/150536/128730959-c5152e99-10cf-40b6-8054-5d9f566bc0ae.png
-thumbnail-img: https://user-images.githubusercontent.com/150536/128730959-c5152e99-10cf-40b6-8054-5d9f566bc0ae.png
 ---
 
 ---
