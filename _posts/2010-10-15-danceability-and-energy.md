@@ -3,6 +3,8 @@ title: Danceability and Energy
 subtitle: introducing Echo Nest Attributes
 ---
 
+# Danceability and Energy: Introducing Echo Nest Attributes
+
 ---
 **NOTE**: The Echo Nest was [acquired by Spotify](https://techcrunch.com/2014/03/07/spotify-echo-nest-100m/) in 2014; most but not all API references are now part of the [Spotify API](https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-audio-analysis)  
 ---
