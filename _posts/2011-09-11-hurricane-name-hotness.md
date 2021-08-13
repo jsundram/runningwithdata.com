@@ -1,6 +1,6 @@
 ---
 title: Hurricane Name Hotness
-redirect_From:
+redirect_from:
     - post/10097398123
     - post/10097398123/hurricane-names
 ---

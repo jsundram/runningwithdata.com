@@ -1,6 +1,6 @@
 ---
 title: W Considered Harmful
-redirect_From:
+redirect_from:
     - post/3576752158/w
     - post/3576752158
 ---
