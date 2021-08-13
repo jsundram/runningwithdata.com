@@ -5,5 +5,8 @@ plugins:
 title: Running with Data
 description: fun with data, music, and visualization
 author: Jason Sundram
+permalink: /:basename.html
+
+
 
 
