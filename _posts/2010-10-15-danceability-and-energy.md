@@ -40,5 +40,5 @@ Attributes show how powerful and complete The Echo Nest's analyze data is. Armed
 
 
 ---
-*<sub>Originally published: Fri, 15 Oct 2010 to [https://runningwithdata.tumblr.com/post/1321504427](https://runningwithdata.tumblr.com/post/1321504427)</sub>*
+*<sub>Originally published: Fri, 15 Oct 2010 to [https://runningwithdata.tumblr.com/post/1321504427](https://runningwithdata.tumblr.com/post/1321504427/)</sub>*
 

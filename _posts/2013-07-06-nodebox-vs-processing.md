@@ -56,5 +56,5 @@ Even with the JIT, and some OpenGL improvements, Nodebox lags behind both Proces
 Long story short, Nodebox has a lot to like, but has a long way to go before it can compete with Processing in terms of community and performance. But that means making incremental improvements is really easy. Go pull out your profiler &mdash;[@huyng](https://twitter.com/huyng) wrote [a great post on profiling Python](http://www.huyng.com/posts/python-performance-analysis/) &mdash; and submit a pull request!  
 
 ---
-*<sub>Originally published: Sat, 06 Jul 2013 to [https://runningwithdata.tumblr.com/post/54781756667](https://runningwithdata.tumblr.com/post/54781756667)</sub>*
+*<sub>Originally published: Sat, 06 Jul 2013 to [https://runningwithdata.tumblr.com/post/54781756667](https://runningwithdata.tumblr.com/post/54781756667/)</sub>*
 

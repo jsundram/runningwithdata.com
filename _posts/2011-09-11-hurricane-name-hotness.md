@@ -40,5 +40,5 @@ For a great roundup of other hurricane resources, check out [@WhitherWater](http
 
 ---
 
-*<sub>Originally published: Sun, 11 Sep 2011 to [https://runningwithdata.tumblr.com/post/10097398123](https://runningwithdata.tumblr.com/post/10097398123)</sub>*
+*<sub>Originally published: Sun, 11 Sep 2011 to [https://runningwithdata.tumblr.com/post/10097398123](https://runningwithdata.tumblr.com/post/10097398123/)</sub>*
 
