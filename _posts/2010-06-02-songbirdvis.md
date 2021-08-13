@@ -1,3 +1,9 @@
+---
+title: Songbird's first music visualizer: SongbirdVis
+redirect_from: 
+    - post/655428696
+    - post/655428696/songbirdvis
+---
 # Songbird's first music visualizer: SongbirdVis
 
 ---

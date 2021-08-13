@@ -1,3 +1,9 @@
+---
+title: streamgraph.js
+redirect_from: 
+    - post/566345323
+    - post/566345323/streamgraphjs
+---
 # streamgraph.js
 
 

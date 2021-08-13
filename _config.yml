@@ -2,6 +2,7 @@ theme: jekyll-theme-dinky
 # remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 title: Running with Data
 description: fun with data, music, and visualization
 author: Jason Sundram

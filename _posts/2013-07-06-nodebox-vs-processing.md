@@ -1,3 +1,9 @@
+---
+title: Nodebox vs Processing
+redirect_from: 
+    - post/54781756667
+    - post/54781756667/nodebox-v-processing
+---
 # Nodebox vs Processing
 
 *TL;DR: Nodebox-OpenGL gives you the sugar and power of Python and the ease of Processing, but with a significant speed penalty. The good news is: there’s lots of low-hanging fruit. Let’s submit some diffs!*

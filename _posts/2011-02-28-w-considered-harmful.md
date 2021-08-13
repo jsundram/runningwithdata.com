@@ -1,3 +1,9 @@
+---
+title: 'W' Considered Harmful
+redirect_From:
+    - post/3576752158/w
+    - post/3576752158
+---
 # 'W' Considered Harmful
 
 Not [the magazine](http://www.wmagazine.com) and not even [the former president](https://www.snopes.com/fact-check/someone-set-us-up-the-google-bomb/). But the [letter 'W' itself](http://en.wikipedia.org/wiki/W). The letter 'W', 23rd in the English alphabet, is unique in two ways: it is the only letter whose name is more than one syllable, and also the only letter whose name doesn't include the sound it makes.  

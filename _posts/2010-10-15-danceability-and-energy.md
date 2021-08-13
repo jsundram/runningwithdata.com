@@ -1,6 +1,9 @@
 ---
 title: Danceability and Energy
 subtitle: introducing Echo Nest Attributes
+redirect_From:
+    - post/1321504427
+    - post/1321504427/danceability-and-energy
 ---
 
 # Danceability and Energy: Introducing Echo Nest Attributes

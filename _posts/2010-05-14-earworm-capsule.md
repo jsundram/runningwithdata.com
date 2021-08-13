@@ -1,3 +1,9 @@
+---
+title: Earworm and Capsule
+redirect_from: 
+    - post/597154309
+    - post/597154309/earworm-capsule
+---
 # Earworm and Capsule
 
 ---
