@@ -46,4 +46,4 @@ Only 101 W-words in the CMU dictionary (of 3,805 total W-words) have more than 3
 * Get a list of acronyms (maybe from [netlingo](http://www.netlingo.com/acronyms.php)) and see how many of them require more syllables to say than the phrase they stand for.
 
 ---
-*<sub>Originally published: Mon, 28 Feb 2011 to [https://runningwithdata.com/post/3576752158](https://runningwithdata.com/post/3576752158)</sub>*
+*<sub>Originally published: Mon, 28 Feb 2011 to [https://runningwithdata.tumblr.com/post/3576752158](https://runningwithdata.com/post/3576752158)</sub>*
