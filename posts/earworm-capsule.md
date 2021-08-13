@@ -18,7 +18,7 @@ We've developed two cool new examples to show off the new functionality: Earworm
 
 [Earworm](https://github.com/echonest/remix/tree/master/examples/earworm) (thanks to [Jonathan Feinberg](http://mrfeinberg.com/) for the name) makes it possible to extend or shrink a song to any length you might desire, without changing the tempo. It does this by constructing a network graph of the piece, using The Echo Nest's analysis data. Each node in the graph is a beat in the song, and an edge exists between two nodes if the two beats, and the several beats that follow them, sound similar (close in timbre and pitch).
    
-![Song Graph](https://user-images.githubusercontent.com/150536/128895903-69b6554d-b5b4-4420-97ae-b9d53f04fe88.png)
+![Song Graph](https://user-images.githubusercontent.com/150536/128895903-69b6554d-b5b4-4420-97ae-b9d53f04fe88.png)  
 *One possible rendering of a song graph.*
 
 The graph shows us where we can make seamless transitions between different parts of the song. Stretching (or shrinking) the song is then just a matter of minimizing the number of "loop" points to reach a requested duration.
