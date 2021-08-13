@@ -1,8 +1,9 @@
-## [Running with Data](https://jsundram.github.io/runningwithdata.com)
+# [Running with Data](https://runningwithdata.com)
 <sub>FUN WITH DATA, MUSIC, AND VISUALIZATION</sub>
 
 ---
 
+## Blog: [rss](./feed.xml)
 * [Nodebox vs Processing](./2013/07/06/nodebox-vs-processing.html) &mdash; 06 Jul 2013
 * [Hurricane Name Hotness](./2011/09/11/hurricane-name-hotness.html) &mdash; 11 Sep 2011
 * ['W' Considered Harmful](./2011/02/28/w-considered-harmful.html) &mdash; 28 Feb 2011
