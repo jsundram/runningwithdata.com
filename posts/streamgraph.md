@@ -30,7 +30,7 @@ Here are some screenshots of streamgraphs.js in action. Full source for these ex
    
 ![Pitch data from part of the Aria from Bach's Goldberg Variations](https://raw.githubusercontent.com/jsundram/streamgraph.js/master/examples/screenshots/aria.png)
   
-Pitch data from part of the [Goldberg Variations](https://vimeo.com/2671233), obtained using The Echo Nest's [Track API](https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-audio-analysis)</a>. Note the legend and the custom coloring: a mapping of pitch frequencies onto wavelengths of light.
+Pitch data from part of the [Goldberg Variations](https://vimeo.com/2671233), obtained using The Echo Nest's [Track API](https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-audio-analysis). Note the legend and the custom coloring: a mapping of pitch frequencies onto wavelengths of light.
    
 Get the code: [streamgraph.js on github](https://github.com/jsundram/streamgraph.js)
 
