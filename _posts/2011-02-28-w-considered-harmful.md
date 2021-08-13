@@ -1,5 +1,5 @@
 ---
-title: 'W' Considered Harmful
+title: W Considered Harmful
 redirect_From:
     - post/3576752158/w
     - post/3576752158
