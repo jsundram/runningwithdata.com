@@ -1,6 +1,6 @@
 # 'W' Considered Harmful
 
-Not [the magazine](http://www.wmagazine.com) and not even [the former president](https://www.snopes.com/fact-check/someone-set-us-up-the-google-bomb/). But the [letter 'W' itself]("http://en.wikipedia.org/wiki/W"). The letter 'W', 23rd in the English alphabet, is unique in two ways: it is the only letter whose name is more than one syllable, and also the only letter whose name doesn't include the sound it makes.  
+Not [the magazine](http://www.wmagazine.com) and not even [the former president](https://www.snopes.com/fact-check/someone-set-us-up-the-google-bomb/). But the [letter 'W' itself](http://en.wikipedia.org/wiki/W). The letter 'W', 23rd in the English alphabet, is unique in two ways: it is the only letter whose name is more than one syllable, and also the only letter whose name doesn't include the sound it makes.  
 
 The fact that 'W' takes 3 syllables to say bothers me. Even [Wikipedia's entry on 'W'](http://en.wikipedia.org/wiki/W#Name) points out, twice, that the abbreviation *www* requires *nine* syllables to say. Crazy. So I wondered, how often is it the case that words that start with W (hereafter W-words) have fewer syllables than the letter W (double-yew)?  
 

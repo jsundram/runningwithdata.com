@@ -1,4 +1,5 @@
-theme: jekyll-theme-tactile
+# theme: jekyll-theme-dinky
+remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-feed
 title: runningwithdata.com
