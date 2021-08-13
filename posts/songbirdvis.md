@@ -43,7 +43,7 @@ The timbre display shows the the 12-dimensional timbre vector for each segment. 
 The pitch display shows the 12-dimensional pitch vector for each segment. Each value corresponds to the strength of a pitch at that point. So, if a guitar plays the note G, and there is no other sound, only the bin for G would be colored in. Because of percussive and other non-pitched sounds, we see a lot of color on the pitch display. Some filtering or weighting might be in order to make this display a bit cleaner.  Pitch colors are chosen by taking a note frequency in hertz and finding the color of the corresponding wavelength of light.
 
 ### loudness
-![loudness curve]("http://github.com/jsundram/songbirdvis/raw/db378394133b08738082f0b29d7b5eaa0519cd2e/screenshots/loudness.png")
+![loudness curve](http://github.com/jsundram/songbirdvis/raw/db378394133b08738082f0b29d7b5eaa0519cd2e/screenshots/loudness.png)
 The loudness curve shows the perceptual loudness (in dB) over the course of the track. The thickness of the curve shows the difference between the loudness at the beginning of a segment (loudness start), and the maximum loudness for that segment. The white line shows the overall loudness for the track. The vertical white lines show where the analysis data has marked "end of fade in" and "start of fade out". 
 
 ### meter
