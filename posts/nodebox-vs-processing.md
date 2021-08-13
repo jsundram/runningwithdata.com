@@ -42,7 +42,7 @@ Even with the JIT, and some OpenGL improvements, Nodebox lags behind both Proces
 
 ### Rendering Speeds in frames per second (FPS) 
 
-| Nodebox </br> <sub>(v0.7 stock)</sub> | Nodebox </br> <sub>(latest)</sub> | Nodebox </br> <sub>(latest + PyPy)</sub> | Processing | Processing </br> <sub>(no image saving)</sub> | Processing.js | 
+| Nodebox <br/> <sub>(v0.7 stock)</sub> | Nodebox <br/> <sub>(latest)</sub> | Nodebox <br/> <sub>(latest + PyPy)</sub> | Processing | Processing <br/> <sub>(no image saving)</sub> | Processing.js | 
 |------|----|-----|-----|------|-----| 
 | .375 | .6 | 2.7 | 4.4 | 27.6 | 5.3 |
 
