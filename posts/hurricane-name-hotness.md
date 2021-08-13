@@ -13,9 +13,8 @@ It turns out that names in the first half of the alphabet get retired more frequ
 [Wilma](http://en.wikipedia.org/wiki/Hurricane_Wilma) &mdash; and a 6th, 
 [Tropical Storm Gamma](http://en.wikipedia.org/wiki/Tropical_Storm_Gamma_(2005)) may well have been retired, as it killed 39 people. But it seems that Greek letters don&rsquo;t get retired.  
 
-
 [
-  ![retired hurricane names](http://viz.runningwithdata.com/hurricane/retired_sm.png)
+  ![retired hurricane names](https://user-images.githubusercontent.com/150536/129285618-3a056261-0d56-4817-b43c-e702e087d878.png)
 ](http://viz.runningwithdata.com/hurricane/retired.png)
 
 
@@ -28,7 +27,7 @@ But why wonder? The Social Security Administration keeps records of baby names f
 Of course, Atlantic hurricanes don't just affect the United States, and the World Meteorological Organization is likely to use names that may be popular in Canada, Mexico, and Cuba. So the popularity data is not perfect. Nonetheless, with this data, it is easy to see which hurricane names are likely to be unfamiliar to US citizens.  
   
 [
-    ![Hurricane Name Hotness Chart](http://viz.runningwithdata.com/hurricane/table_500.png)
+    ![Hurricane Name Hotness Chart](https://user-images.githubusercontent.com/150536/129285619-8b2742c3-8c4c-47f0-8040-8601663ccbde.png)
 ](http://viz.runningwithdata.com/hurricane/)
  
 For a great roundup of other hurricane resources, check out [@WhitherWater](https://twitter.com/WhitherWater)'s [post on Irene](https://microbestomanatees.wordpress.com/2011/08/28/67403324/).
