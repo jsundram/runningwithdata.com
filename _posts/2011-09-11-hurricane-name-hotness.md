@@ -11,7 +11,7 @@ With all the publicity surrounding [Hurricane Irene](http://en.wikipedia.org/wik
 
 ### Retirees
 
-It turns out that names in the first half of the alphabet get retired more frequently. This is unsurprising: between 1950 - 2000, only about 10 storms a year received names, so it makes sense that most of the retired names fall between A and J. Interestingly, 2005 was a banner year for hurricanes: All the names, and 6 of the Greek letter names (up to [Zeta](https://en.wikipedia.org/wiki/Tropical_Storm_Zeta_(2005)) were used, 5 names were retired that year: 
+It turns out that names in the first half of the alphabet get retired more frequently. This is unsurprising: between 1950 - 2000, only about 10 storms a year received names, so it makes sense that most of the retired names fall between A and J. Interestingly, 2005 was a banner year for hurricanes: All the names, and 6 of the Greek letter names (up to [Zeta](https://en.wikipedia.org/wiki/Tropical_Storm_Zeta_(2005))) were used, 5 names were retired that year: 
 [Dennis](http://en.wikipedia.org/wiki/Hurricane_Dennis),
 [Katrina](http://en.wikipedia.org/wiki/Hurricane_Katrina),
 [Rita](http://en.wikipedia.org/wiki/Hurricane_Rita),

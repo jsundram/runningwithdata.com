@@ -3,7 +3,7 @@
 
 ---
 
-* [Nodebox vs Processing](./2013/07/06/nodebox-vs-processing.html) &mdash; 06 Jul 2013
+* [NodeBox vs Processing](./2013/07/06/nodebox-vs-processing.html) &mdash; 06 Jul 2013
 * [Hurricane Name Hotness](./2011/09/11/hurricane-name-hotness.html) &mdash; 11 Sep 2011
 * ['W' Considered Harmful](./2011/02/28/w-considered-harmful.html) &mdash; 28 Feb 2011
 * [Danceability and Energy in Audio](./2010/10/15/danceability-and-energy.html) &mdash; 15 Oct 2010

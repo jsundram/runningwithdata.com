@@ -36,7 +36,7 @@ Here are the various ways you can interact with danceability and energy through 
 * audio_summary: danceability and energy are now part of a track's audio summary.  Any place you can specify the audio_summary will give you danceability and energy (e.g. [track.upload](http://developer.echonest.com/docs/v4/track.html#upload))
 * [playlisting](http://developer.echonest.com/docs/v4/playlist.html#playlist-api-methods) (both static and dynamic) - You can specify min/max danceability &amp; energy when creating a playlist  and sort the output by ascending or descending danceability/energy.
 
-Attributes show how powerful and complete The Echo Nest's analyze data is. Armed with only those JSON documents, you could make own attribute, too. Maybe you want to implement [goodness](http://blog.echonest.com/post/91934467/the-echo-nest-goodness-api)? But seriously, what are you going to do with danceability &amp; energy for a [Music HackDay](http://new.musichackday.org/)? I can't wait to find out.
+Attributes show how powerful and complete The Echo Nest's [`analyze`](https://developer.spotify.com/console/get-audio-analysis-track/) data is. Armed with only those JSON documents, you could make your own attributes, too. Maybe you want to implement [goodness](http://blog.echonest.com/post/91934467/the-echo-nest-goodness-api)? But seriously, what are you going to do with danceability &amp; energy for a [Music HackDay](http://new.musichackday.org/)? I can't wait to find out.
 
 
 ---
