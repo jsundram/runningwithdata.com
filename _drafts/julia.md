@@ -14,7 +14,7 @@
 * script with command line args was a bit tricky to get started
 * naive code isn't necessarily faster than Python due to c implementations for performance critical stuff in many python packages.
 * unicode symbols as operators (e.g. `union` and `\cup` for sets)
-* community is on slac, a place that doesn't seem to have unlimited history / storage? esp as a newb, surprising that questions aren't on stackoverflow. But discourse is better.
+* community is on Slack, a place that doesn't seem to have unlimited history / storage? esp as a newb, surprising that questions aren't on stackoverflow. But conversation is better.
 * typed lists: c[1] on a `CartesianIndex[]` fails, `CartesianIndex{2}[]` is what I wanted 
 * splat operator `...` (but this is [known](https://docs.julialang.org/en/v1/manual/faq/#What-does-the-...-operator-do?))
 * use of semicolons also confusing. 
