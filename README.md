@@ -5,6 +5,7 @@
 
 ## Blog: [rss](./feed.xml)
 
+* [Data Visualization on the Go](./2024/10/10/data-visualization-on-the-go.html) &mdash; 10 Oct 2024
 * [NodeBox vs Processing](./2013/07/06/nodebox-vs-processing.html) &mdash; 06 Jul 2013
 * [Hurricane Name Hotness](./2011/09/11/hurricane-name-hotness.html) &mdash; 11 Sep 2011
 * ['W' Considered Harmful](./2011/02/28/w-considered-harmful.html) &mdash; 28 Feb 2011
