@@ -3,7 +3,7 @@ title: Data Visualization on the Go
 ---
 # Data Visualization on the Go
 
-| ![calendar.png](./data-visualizaton-on-the-go/calendar.png) | 
+| ![calendar.png](https://github.com/user-attachments/assets/3e114f99-f258-4b78-97f7-07495e4e4b0e) | 
 |:--:| 
 | *A screenshot of a github-style [activity view](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-an-overview-of-your-activity-on-your-profile) made with this approach* |
 
